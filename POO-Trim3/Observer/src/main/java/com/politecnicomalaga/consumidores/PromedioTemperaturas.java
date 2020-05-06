@@ -13,7 +13,7 @@ public class PromedioTemperaturas implements ConsumidorDeTemperaturas {
 
     @Override
     public void setNuevaTemperatura(int temperatura, LocalTime hora) {
-        promedioTemperaturas= ((promedioTemperaturas*numeroTemperaturas)+temperatura)*(numeroTemperaturas+1);
+        promedioTemperaturas= ((promedioTemperaturas*numeroTemperaturas)+temperatura)/(numeroTemperaturas+1);
         numeroTemperaturas++;
     }
 

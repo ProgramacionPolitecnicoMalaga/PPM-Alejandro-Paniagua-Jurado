@@ -3,7 +3,10 @@ package com.politecnicomalaga.sensor;
 import java.util.Random;
 import java.util.TimerTask;
 
+// PUEDES IGNORAR ESTA CLASE
+
 public abstract class SensorTimerTask extends TimerTask {
+
     Random aleatorio;
 
     public SensorTimerTask() {
