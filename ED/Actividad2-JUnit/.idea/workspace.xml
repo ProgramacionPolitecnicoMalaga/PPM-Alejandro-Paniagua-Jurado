@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52dbdff2-f7c6-4014-818c-62d49fc5edb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractFactory/AbstractFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad1JTable/Actividad1JTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora-Multimodulo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora-Multimodulo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora-Multimodulo/Calculadora-Multimodulo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Calculadora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Calculadora2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Calculadora2/src/main/java/com/politecnicomalaga/Calculadora2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Division/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Division/src/main/java/com/politecnicomalaga/Divison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Multipliciacion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Multipliciacion/src/main/java/com/politecnicomalaga/Multipliciacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Resta/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Resta/src/main/java/com/politecnicomalaga/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Suma/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculadora/Suma/src/main/java/com/politecnicomalaga/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/Composite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntercambioPaneles/IntercambioPaneles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jitpack/Jitpack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JitpackED/JitpackED.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JitpackED/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JitpackED/src/main/java/Copyright.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAtronADapter/PAtronADapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAtronADapter/src/main/java/com/poltiecnicomalaga/Adapter/Adaptador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAtronADapter/src/main/java/com/poltiecnicomalaga/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAtronADapter/src/main/java/com/poltiecnicomalaga/Modelo/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAtronADapter/src/main/java/com/poltiecnicomalaga/Vista/VistaPersonas.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PAtronADapter/src/main/java/com/poltiecnicomalaga/Vista/VistaPersonas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatronBuilder/PatronBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatronSingleton/PatronSingleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Propierties/Propierties.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/Strategy-State.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/Modelo/LoteProductos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/Modelo/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/Selector/FactorySelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/Selector/Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/Selector/SelectorMejorProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/Selector/SelectorPrecio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/Selector/SelectorRatio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy-State/src/main/java/com/politecnicomalaga/Selector/SelectorValoracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/State/Strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/src/main/java/com/politecnicomalaga/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/src/main/java/com/politecnicomalaga/Selector/Eleccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/src/main/java/com/politecnicomalaga/Selector/SelectorDeMejorProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/src/main/java/com/politecnicomalaga/Strategy/LoteProductos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/src/main/java/com/politecnicomalaga/Strategy/MejorPrecio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/src/main/java/com/politecnicomalaga/Strategy/MejorRAtio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/Strategy/src/main/java/com/politecnicomalaga/Strategy/MejorVAlorado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Actividad1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividad1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Actividad1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividad1/src/main/java/Copyright.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Actividad1/src/main/java/Copyright.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividad1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Actividad1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividad1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Actividad1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bougbeB22fnEwBRFBrr7dHMKm5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.politecnicomalaga" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in Actividad2-JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Actividad2-JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Actividad2-JUnit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52dbdff2-f7c6-4014-818c-62d49fc5edb6" name="Default Changelist" comment="" />
+      <created>1589310880040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589310880040</updated>
+      <workItem from="1589310881970" duration="1449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1589312331698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589312331698" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1589312331698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589312331698" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1589312331698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589312331698" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1589312331698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589312331698" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589310882968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589310882968" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589311858646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589311858646" />
+  </component>
+</project>
