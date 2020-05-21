@@ -27,6 +27,9 @@ public class ListaDeNiños {
     public Niño getNiñoEnPosicion(int i){
         return niños.get(i);
     }
+    public String getIntentoSeleccionado() {
+        return selectorDeIntentosStrategy.ElegirDeseo(this);
+    }
 
     @Override
     public String toString() {

@@ -19,20 +19,20 @@ public class App {
             System.out.print("1. intento 1\n" +
                     "2.  intento 2\n" +
                     "3.  intento 3\n" +
-                    "0.  intento 4\n");
+                    "4.  intento 4\n");
             opcion = lectorTeclado.nextInt();
             System.out.println("------------------------------------");
             if (opcion!=0) {
                 SelectorDeIntentosStrategy selectorDeIntentosStrategy = SelectorDeIntentos.getSelectorDeIntento(opcion);
-                loteDeProductos.setSelectorDeMejorProducto(selectorDeMejorProducto);
-                System.out.println("\nMejor producto: " + loteDeProductos.getSellersChoice() + "\n===================\n");
+                listaDeNiños.setSelectorDeIntento(selectorDeIntentosStrategy);
+                System.out.println( listaDeNiños.getIntentoSeleccionado() + "\n===================\n");
             }
         } while (opcion!=0);
     }
 
     public static void añadirNiños() {
         listaDeNiños = new ListaDeNiños();
-        listaDeNiños.addNiño(new Niño("Jacinto", "paquete de galletas"));
+        listaDeNiños.addNiño(new Niño("Jacinto", "un paquete de galletas"));
     }
 }
 

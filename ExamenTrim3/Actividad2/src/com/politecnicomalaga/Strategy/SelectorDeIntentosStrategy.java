@@ -9,5 +9,5 @@ public interface SelectorDeIntentosStrategy {
     int INTENTO_3 = 3;
     int INTENTO_4 = 4;
 
-    String ElegirDeseo (String cadena, ListaDeNiños listaDeNiños);
+    String ElegirDeseo (ListaDeNiños listaDeNiños);
 }
