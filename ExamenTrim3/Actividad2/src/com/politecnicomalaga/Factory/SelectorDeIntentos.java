@@ -14,7 +14,7 @@ public class SelectorDeIntentos {
             case SelectorDeIntentosStrategy.INTENTO_4:
                 return new Intento4();
             default:
-                return new Intento1();
+                return new Desesperado();
         }
     }
 }
