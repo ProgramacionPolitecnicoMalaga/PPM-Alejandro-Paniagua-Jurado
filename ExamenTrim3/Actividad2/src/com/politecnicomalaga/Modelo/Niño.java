@@ -4,11 +4,13 @@ public class Niño {
     private String nombre;
     private String deseo;
 
-    public Niño( String nombre, String deseo){
+    public Niño( String nombre ,String deseo){
         this.nombre = nombre;
+        this.deseo = deseo;
     }
-
-
+    public String getDeseo(){
+        return deseo;
+    }
     public String conseguirDeseo(int intento){
         if (intento == 1)
             return "intenta coger " + deseo + " sin que le vean";
@@ -25,5 +27,4 @@ public class Niño {
     public String getNombre() {
         return nombre;
     }
-
 }
