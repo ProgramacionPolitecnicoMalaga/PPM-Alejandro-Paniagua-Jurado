@@ -1,5 +1,5 @@
 package com.politecnicomalaga.vista;
-import com.politecnicomalaga.controlador.GestorUsuarios;
+import com.politecnicomalaga.control.GestorUsuarios;
 import com.politecnicomalaga.modelo.Usuario;
 import com.politecnicomalaga.modelo.Validacion;
 import javax.swing.*;
@@ -53,7 +53,7 @@ public class UIPrincipal {
                 if (resultado.equals("correcto")) {
                     if ( gestorUsuarios.usuarioExistente((String) dataTransfer.get("nombre"))) {
                         dataTransfer.put("controlador", gestorUsuarios);
-                        Validacion validacion = DataTransferAValidacion.transformar(dataTransfer);
+                        Validacion validacion = ValidacionDatos.comprobarDatos(dataTransfer);
                         modeloDatos.addElement(validacion);
                     }
                     else mostrarMensajeDialogo(DIALOGO_DATOS_INCORRECTOS, e);

@@ -20,7 +20,7 @@ public class ValidacionRender implements ListCellRenderer<Validacion> {
         lblHash.setText(validacion.getUsuario().getHash());
         lblAlgoritmo.setText(validacion.getUsuario().getAlgoritmo());
 
-        if (validacion.isValidado()) {
+        if (validacion.isCorrecto()) {
             validacionImg = new ImageIcon("src/main/resources/ok.png");
         }
         else {
